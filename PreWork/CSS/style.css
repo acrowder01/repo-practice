@@ -1,0 +1,68 @@
+body{background-color: green}
+h1{
+  color: yellow;
+  font-family: cursive;
+  font-weight: 50px;
+  text-decoration: underline;
+  text-align: center;
+}
+a{
+ color: purple;
+ font-size: 25px;
+}
+
+p{
+ font-size: 50px;
+}
+
+ol{
+ font-size: 25px;
+}
+
+div{
+font-size: 25px;
+}
+
+#KidNames {
+color:yellow;
+}
+
+#div1{background-color: blue;
+}
+
+#div2{
+background-color: green;
+}
+#div3{background-color: blue;
+}
+#div4{
+background-color: green;
+}
+
+#div5{
+background-color: red;
+}
+
+#div1, #div2, #div3, #div4, #div5 {
+border: dashed;
+}
+
+.orange {
+  color:orange;
+
+.center1 {
+  position:relative;
+}
+
+form{
+  padding: 15px;
+  background-color: blue;
+  font-style: italic;
+  border-style: solid;
+  font-weight: 800px;
+}
+input [type=button] {
+  color: black;
+  background-color: red;
+  padding: 5px;
+}
